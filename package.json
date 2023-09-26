@@ -1,12 +1,19 @@
 {
   "name": "adanjz-ntfy",
   "version": "1.0.0",
-  "description": "",
+  "description": "NTFY logger for my apps",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "adanjz <adanzweig@gmail.com>",
-  "license": "MIT"
+  "author": "adanjz",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adanzweig/nodejs-ntfy.git"
+  },
+  "bugs": {"url": "https://github.com/adanzweig/nodejs-ntfy/issues"},
+  "homepage": "https://github.com/adanzweig/nodejs-ntfy"
 }
